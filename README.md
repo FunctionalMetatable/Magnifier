@@ -61,4 +61,5 @@ idk lol
 `Magnifier/Controllers` contains classes with endpoints.  
 `Magnifier/Models` contains classes to be used to store data.  
 `Magnifier/Services` contains singleton classes that can be used to access data and to do stuff.
+
 You can see the REST API Docs for Magnifier [here](https://CluckCluckChicken.github.io/Magnifier).
